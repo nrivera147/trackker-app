@@ -10,7 +10,11 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "react-scripts": "latest"
+    "react-scripts": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "framer-motion": "latest",
+    "lucide-react": "latest"
   },
   "devDependencies": {}
 }
