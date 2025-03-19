@@ -9,6 +9,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "dependencies": {},
+  "dependencies": {
+    "react-scripts": "latest"
+  },
   "devDependencies": {}
 }
