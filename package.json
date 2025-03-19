@@ -1,0 +1,14 @@
+{
+  "name": "trackker-app",
+  "version": "1.0.0",
+  "description": "Trackker helps hospitals manage and monitor their assets with real-time tracking, usage history, and predictive maintenance alerts.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
